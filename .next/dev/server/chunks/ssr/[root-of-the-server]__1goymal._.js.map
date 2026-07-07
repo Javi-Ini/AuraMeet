@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/javi_iniguez/Desktop/AuraMeet/src/app/page.tsx"],"sourcesContent":["export default function Home() {\n    return (\n      <main>\n        <h1>Welcome to AuraMeet</h1>\n        <p>Upload an audio recording to get started.</p>\n      </main>\n    );\n  }"],"names":["Home"],"mappings":";;;;;;AAAe,SAASA;IACpB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}
